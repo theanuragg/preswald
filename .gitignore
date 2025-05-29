@@ -121,7 +121,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -184,3 +183,4 @@ community_gallery/**/data
 node_modules/
 
 preswald-deployer-dev.json
+config.bat
